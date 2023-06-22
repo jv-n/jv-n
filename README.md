@@ -1,3 +1,4 @@
+# Hello, there 🫡
 ![](https://komarev.com/ghpvc/?username=jv-n&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
@@ -19,6 +20,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
+
 <br/>
 
 <a href="https://github.com/jv-n">
@@ -27,6 +30,10 @@
 
 <br/>
 
+<h3> 🎮 &nbsp;Gaming profiles </h3> 
+
+[![Xbox: xRobinBlack](https://img.shields.io/badge/-xRobinBlack-0b5914?style=flat-square&logo=Xbox&logoColor=white&link=https://https://account.xbox.com/profile?gamertag=xRobinBlack)](https://https://account.xbox.com/profile?gamertag=xRobinBlack)
+[![Steam: jonathan](https://img.shields.io/badge/-jvsn2-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/jvsn2/)](https://steamcommunity.com/id/jvsn2/)
 <h3> :earth_americas: &nbsp;Fala Comigo! </h3> 
 
 [![Linkedin: João Nascimento](https://img.shields.io/badge/-João_Nascimento-28487a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-nascimento-ba9051280)](https://www.linkedin.com/in/joão-nascimento-ba9051280/)
