@@ -5,7 +5,7 @@
 
 - 😶‍🌫️ &nbsp; Interessado em desenvolvimento de software, hardware e gaming.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** no <a href="https://www.cin.ufpe.br/">Centro de Informática da UFPE</a>.
-- 🤓 &nbsp; Aprendendo sobre **um bucado de coisas (agora Sistemas Operacionais)**
+- 🤓 &nbsp; Aprendendo sobre **um bucado de coisas **
 - 🌱 &nbsp; Aprendendo mais sobre **C e C++**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
