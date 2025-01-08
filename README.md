@@ -3,7 +3,8 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 😶‍🌫️ &nbsp; Interessado em desenvolvimento de software, hardware e gaming.
+- 😶‍🌫️ &nbsp; Interessado em desenvolvimento de software, hardware e gestão de projetos.
+- 👨‍💻 &nbsp; CTO do <a href="https://www.citi.org.br/">CITi</a>
 - 🎓 &nbsp; Estudando **Engenharia da Computação** no <a href="https://www.cin.ufpe.br/">Centro de Informática da UFPE</a>.
 - 🤓 &nbsp; Aprendendo sobre **um bucado de coisas**
 - 🌱 &nbsp; Aprendendo mais sobre **C e C++**.
